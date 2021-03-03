@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+
+.nav{
+    align-content: space-between;
+    background: #1a202c;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+.nav-link{
+    margin-left: 20px;
+    color: #cbd5e0;
+}
+
+
