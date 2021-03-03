@@ -18,4 +18,4 @@ Route::get('/', [ MainController::class, 'index' ]);
 Route::get('/first', [ MainController::class, 'first']);
 Route::get('/test/{id?}', [ MainController::class, 'out']);
 Route::get('/about', [ MainController::class, 'about']);
-//Route::get('/{category}', [ MainController::class, 'category']);
+Route::get('/{category}', [ MainController::class, 'category']);

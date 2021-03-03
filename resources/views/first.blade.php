@@ -1,7 +1,7 @@
-@extends('master')
+@extends('layouts.master')
 
 @section('content')
     @foreach($db as $el)
-        <p>{{$el->name}}</p>
+        <p>{{$el->migration}}</p>
     @endforeach
 @endsection

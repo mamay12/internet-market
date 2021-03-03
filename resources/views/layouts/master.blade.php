@@ -15,7 +15,7 @@
 
     <nav class="nav">
         <a class="nav-link" href="/">Link 1</a>
-        <a class="nav-link" href="/test/2">Link 2</a>
+        <a class="nav-link" href="#">Link 2</a>
         <a class="nav-link" href="/first">Link 3</a>
         <a class="nav-link" href="/about">About me</a>
     </nav>
